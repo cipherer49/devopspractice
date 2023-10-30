@@ -1,0 +1,11 @@
+﻿sales_id,product_name,quantities_sold,price,sale_amt
+1,shoes,10,100,1000
+2,socks,20,20,400
+3,jeans,10,30,300
+4,shirts,8,100,800
+5,glasses,12,20,240
+6,hats,8,40,320
+7,footballs,3,40,120
+8,tshirts,10,100,1000
+9,bags,9,100,900
+10,watches,5,200,1000
